@@ -53,7 +53,13 @@ Individual lab documentation will include relevant network topologies, selected 
 ## Relevance to IT and Cybersecurity
 
 Understanding ACLs is useful for network troubleshooting, security administration, traffic segmentation, and investigating connectivity problems.
+## Featured Completed Lab
 
+### Lab 8.5.5 — Named Standard IPv4 ACLs
+
+Configured and verified a named standard IPv4 ACL using Cisco Packet Tracer. Documented the network topology, router configuration, interface assignment, ACL match counters, connectivity testing, and successful activity completion.
+
+**[View Lab 8.5.5 — Full Documentation](Labs/8.5.5-Named-Standard-IPv4-ACL.md)**
 ## Attribution
 
 Based on Cisco Networking Academy Packet Tracer exercises. This repository contains original learning summaries and will be expanded with independently documented lab evidence.
