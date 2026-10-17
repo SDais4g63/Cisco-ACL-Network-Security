@@ -65,6 +65,11 @@ Configured and verified a named standard IPv4 ACL using Cisco Packet Tracer. Doc
 Configured numbered standard IPv4 ACLs on two Cisco routers using Packet Tracer. Verified permit and deny rules, outbound interface assignments, six connectivity tests, and ACL packet-match counters. Packet Tracer reported 100% activity completion.
 
 **[View Lab 8.5.6 — Full Documentation](Labs/8.5.6-Numbered-Standard-IPv4-ACL.md)**
+### Lab 8.6.5 — Configure IP ACLs to Mitigate Attacks
+
+Configured and verified Cisco IP access control lists across three routers to restrict SSH management access, filter unwanted network traffic, and mitigate IP address spoofing. Troubleshot ACL rule ordering, verified interface assignments, and achieved 100% Packet Tracer completion (24/24 assessment items).
+
+**[View Lab 8.6.5 — Full Documentation](Labs/8.6.5-IP-ACLs-to-Mitigate-Attacks.md)**
 ## Attribution
 
 Based on Cisco Networking Academy Packet Tracer exercises. This repository contains original learning summaries and will be expanded with independently documented lab evidence.
